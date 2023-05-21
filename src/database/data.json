@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "mohammadPiriyan",
+    "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+    "email": "mohammadPiriyan@gmail.com",
+    "salary": "25000",
+    "date": "1997-06-08",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "alirezaKhadembashi",
+    "avatar": "https://randomuser.me/api/portraits/men/2.jpg",
+    "email": "alirezakhadembashi@gmail.com",
+    "salary": "20000",
+    "date": "1994-06-08",
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "name": "mohammadMohtashami",
+    "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+    "email": "mohammadmohtashami@gmail.com",
+    "salary": "35000",
+    "date": "1993-06-08",
+    "status": "Inactive"
+  },
+  {
+    "id": 4,
+    "name": "saeedLak",
+    "avatar": "https://randomuser.me/api/portraits/men/4.jpg",
+    "email": "saeedlak@gmail.com",
+    "salary": "20000",
+    "date": "1997-06-08",
+    "status": "Active"
+  },
+  {
+    "id": 5,
+    "name": "ehsanEmami",
+    "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+    "email": "ehsanemami@gmail.com",
+    "salary": "25000",
+    "date": "1998-06-08",
+    "status": "Inactive"
+  }
+]
